@@ -12,4 +12,4 @@ meu nome é Jhonatan Pires.
 
 -@jhon_zinx_018
 
-![(https://media1.tenor.com/m/YZNyPWI-iCQAAAAC/se-quiser-sim.gif)
+![](https://media1.tenor.com/m/YZNyPWI-iCQAAAAC/se-quiser-sim.gif)
