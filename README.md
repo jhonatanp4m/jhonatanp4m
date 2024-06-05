@@ -1,16 +1,15 @@
-## Hi there 👋
+### boas vindas ao meu perfil!
 
-<!--
-**jhonatanp4m/jhonatanp4m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Jhonatan Pires.
 
-Here are some ideas to get you started:
+-Estou Estudando Na Alura
+-Estou Me Desenvolvendo Na Linguagem javascript
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📧
+
+00001124118883sp@al.educacao.sp.gov.br
+
+-@jhon_zinx_018
+
+![(https://media1.tenor.com/m/YZNyPWI-iCQAAAAC/se-quiser-sim.gif)
